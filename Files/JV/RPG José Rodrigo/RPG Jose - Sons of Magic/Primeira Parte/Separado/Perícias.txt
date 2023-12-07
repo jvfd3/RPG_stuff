@@ -1,0 +1,5 @@
+sobreviver	(Físico)
+socar		(Físico)
+armas brancas curtas	(Físico)
+resist. a dor	(Físico)
+roubar		(Físico)

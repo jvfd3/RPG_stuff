@@ -1,0 +1,43 @@
+Vestimentas (Dragão Brasil)
+
+(Os valores estão em custo)
+
+Algumas opções extras de vestimentas:
+Como mestre você pode criar ou alterar bônus para peças de roupa
+mas cuidado para não acabar encendo seus personagens com pequenos
+bônus, a ideia é ser especifico no em que a peça ajuda por exemplo
+uma bota confortavel que da bonus em teste de atletismo para correr
+ou uma bota com pequenos pregos que da bonus em teste de atletismo
+para escalada.
+
+Botas. Calçados resistentes e confortaveis, fornecem +1 em testes de
+atletismo para correr [T$2]
+
+Capa. Feita com couro resistente para proteger o usuário do sol e da
+chuva. Pode vir com ou sem capuz. Fornece +2 em teste de resistencia 
+contra o clima. [T$5]
+
+Chapéu. Forcence +1 em uma pericia baseada em carisma, escolhido no 
+momento da fabricação. A aparencia do chapéu geralmente está lidada
+a pericia. Por exemplo: uma bandana com pintura de caveira que dá +1
+em intimidação.[T$2]
+
+Luvas de Oficio. Um par de luvas de couro reforçadas que fornece +1
+em testes de oficio e -1 em testes de Dex. [T$5]
+
+Luvas de Escalada. Um par de luvas de pano reforçadas que fornece +1
+em testes de atletismo ára escalar.
+
+Manto de mago. Um tecido reforçado que cobre todo o corpo geralmente
+de cores bufantes e muito usado por cojuradores. Fornece +2 em testes
+de concentração para magias.
+
+Modificações para ferramentas e vestuários:
+
+Aprimorado. Aumenta o bonus em +1
+Magistral.  Aumenta o bonus para +2 Pré-requisito: Aprimorado
+Obra-Prima. Aumenta o bonus para +3 Pré-requisito: Magistral
+
+Multifincional. Essa modificação pode ser aplicada em um item que já 
+forneça um bonus para pericia. Escolha outra pericia que utiliza o mesmo
+atributo-chave. o item passa a fornecer o bonus para a pericia escolhida.

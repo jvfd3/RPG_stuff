@@ -1,0 +1,84 @@
+Itens Exotéricos (Dragão Brasil)
+
+(Os valores estão em custo)
+
+Grilhão Consagrado [T$150] - Um tipo de sino que produz um som peculiar.
+aumentando a CD de suas magias divinas em +1 e +2 para alvos
+devotos de outros deuses
+
+Cetro Elemental [T$75] - Geralmente feito de madeira ou metal
+esses cetros tem pedras preciosas especialmente tradas
+em suas pontas, afinadas com um elemento quando lança
+uma magia do mesmo tipo do cetro aumenta o dano em um
+dano do mesmo tipo
+
+Estola clerical [T$100] - Uma faixa adornada com simbolos divinos
+usada ao redor do pescoço que pende pelos ombros até a cintura.
+suas magias divinas que concedem bônus têm seu valos aumentado
+em +1 em alvos que não são devotos de outros deuses
+e +2 em alvos devotos ao mesmo deus que você(exceto você mesmo)
+
+Luvas de Ferro [T$100] - Um conjunto de dedais interligados por correntes. 
+suas magias arcanas de alcance pessoal que concedem bonus na Defesa ou
+testes de resistências tem esse bonus aumentado em +1
+
+Medalhão [T$100] - Gravado com uma runa pessoal ou o simbolo de uma divindade
+esse medalhão reduz o custo de magias de alcance pessoal em -1PM
+
+Orbe [T$100] - Essa esfera perfeita do tamanho de uma maça 
+concentra seu poder magico. O limite de PM que você pode
+gastar em magias aumenta em  +1
+
+Ostensório Santificado [T$75] - Essa obra de arte dedicada a um
+deus, geralmente na forma de um bastão ou cetro fornece um 
+dado adicional do mesmo tipo para magias divinas, dependendo
+da divindade, afeta magias de cura ou que causam dano das
+trevas(Escolhido na ora da fabricação).
+
+Tomo de Especialista [T$75] - Os tratados magicos nesse livro
+aumentam a compreenção do conjurador sobre uma escola de magia
+escolhida na hora da fabricação, se usado como amplificador ele
+aumenta a CD para resistir as magias arcanas da escola vinculada
+em +2
+
+Varinha arcana [T$100] - Uma varinha tipica. feira de madeira de
+boa qualidade e entalhada com runas arcanas. a CD para resistir
+a suas magias arcanas aumenta em +1.
+
+Modificadores para itens esotéricos:
+
+Ampliador   - Você pode gastar +1PM  para dobrar a área da magia
+
+Catalizador - O limite de PM que você pode gastar em magia aumenta em +1
+
+Energético  - O dano de suas magias aumenta em um dado do mesmo tipo
+
+Extensor    - Você pode pagar +1PM para aumentar o alcance da magia em 1 passo
+
+Harmonizado - Escolha uma magia. o custo diminui em -1PM. Voce pode mudar a magia
+	      afetada pelo item com um ritual que exige 1 dia e T$100 em ingredientes
+
+Poderoso    - Fornece um bonus de +1 na CD para resistir as suas magias
+
+Implacavel  - Aumenta o bônus na CD para resistir as suas magias em +2. 
+              Pre-requisito: poderoso
+
+Vigilante   - O item usa parte de sua mana pessoal para gerar um campo que desvia ataques.
+	      Você recebe um bonus de +4 na defeza mas recebe uma penalidade de -1PM.
+	      Você pode cancelar e reativar esse efeito 1 vez por dia.
+
+Materiais Especiais para itens esotéricos:
+(Considerar o valor do material como arma)
+Aço-rubi.      - Você pode gastar +2PM para que sua magia ignore qualquer tipo de resistencia a dano
+
+Adamante.      - Você pode gastar +2PM para rolar de novo qualquer resultados 1 ou 2 nos dados de dano de uma magia
+
+Gelo eterno    - Se a magia causar dano de frio. Você pode gastar +1PM para causar +1 de dano por dado
+	         Você pode gastar +1PM Adicional para mudar o tipo de dano da magia para frio.
+
+Madeira Tollon - Você recebe +2 em testes de resistencias contra magia
+
+Matéria Vermelha - Todas as criaturas em alcance curto(inclundo você) sofren uma penalidade
+		   de -2 em todos os testes de resistencia a magia
+
+Mitral - Você pode gastar +2PM para aumentar a CD de resistencia de suas magias em +2

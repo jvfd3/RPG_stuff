@@ -1,0 +1,11 @@
+Defesa alta:
+Moderada	Imunidade
+Arriscada	+4 save con
+Crítica	+2 save con
+
+Moderada	con, cd 10, 1dano
+Arriscada	con, cd 10 + (2/min), 1d4 dano
+Crítica		con, cd 10 + (4/min), 1d8+2 dano
+pé de elefante	intransponível, no centro da área crítica, só permite que apessoa e por 1 min, consequência penalidade
+
+turnos: 30 segundos

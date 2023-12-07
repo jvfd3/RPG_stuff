@@ -1,0 +1,37 @@
+Homebrew
+
+Arremeço de objetos não arremessaveis ou pessoas
+Teste de Atletismo
+
+CD definida pelo peso do objeto 
+e categoria de tamanho
+
+A cada 10kg lançar o objeto 3m a frente
+  - Uma categoria menor que o lançador (CD 5) 
+  - (+2) a cada categoria acima
+  - (-1) a cada categoria abaixo
+Cada sucesso extra garante 1,5m a mais na distancia
+se falhar o objeto cai logo a frente dele
+
+O dano pode ser 1d6 para cada categoria de tamanho do lançador
+	Pequeno 1d6
+	Medio   2d6
+	Grande  3d6
+Mais 1d6 para cada 3m de lançamento
+
+Acrobacia (CD 15) tira o dano da distancia
+e a cada 5 exedente tira 1d6 da altura
+
+Exemplos:
+
+Um personagem Medio quer lançar um objeto Minusculo de 20kg
+A CD vai ser 8 o personagem tira 16 no teste então ele arremessa
+o objeto a 6m dano 2d6 + 2d6
+
+Um personagem Medio quer lançar um objeto Pequeno de 20kg
+A CD vai ser 10 o personagem tira 16 no teste então ele arremessa
+o objeto a 4,5m 2d6 + 1d6
+
+Um personagem Medio quer lançar um objeto Medio de 20kg
+A CD vai ser 14 o personagem tira 16 no teste então ele arremessa
+o objeto a 3m 2d6 + 1d6
