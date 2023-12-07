@@ -1,0 +1,16 @@
+Sessão da lanhouse gameover com o nerdzin Yazzdan
+
+JVVP
+	Agiu de acordo com o personagem
+	mesmo calado, o que fez, fez bem
+Golt
+	Agiu bem como lider, e poderia vir como voto, mas JVVP
+Looh
+	Meio apagadinho
+
+JVFD -> JVVP
+Golt -> JVFD
+JVVP -> Golt
+Looh -> JVVP
+
+Ganhador: JVVP
