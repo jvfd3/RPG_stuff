@@ -1,5 +1,0 @@
-espada curta de aço (dano: 3d10 + força) [Arma branca curta] 
-adaga (dano: 3d8 + força) [Arma branca curta]
-
-Armadura samurai (60 armadura) reflete 50% do dano
-livro de ritual que pode causar impacto em criatura amaldiçoada eu decido o que fazer.

@@ -1,5 +1,0 @@
-Vida 		Atual 	|  24 |		Total |  63 |
-Stamina		Atual 	| 351 |		Total | 351 |
-Mana		Atual 	|  25 |		Total |  30 |
-Toxicidade  	Atual	|   0 |		
-Corrupção	Atual	|  50 |		Máx   | 100 |

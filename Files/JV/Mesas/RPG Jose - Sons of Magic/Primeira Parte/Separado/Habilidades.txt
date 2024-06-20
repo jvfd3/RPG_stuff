@@ -1,0 +1,9 @@
+Raio de Luz: 		Exorcismo
+	Mana - 5
+	Cura (2d20 + Poder) de vida	OU
+	Causa (1d20 + Poder) dano
+	
+Raio de Trevas: 	Banimento
+	Mana - 5
+	Queima em (1d10) por 4 Turnos	OU
+	Causa (1d20 + Poder) dano

@@ -1,0 +1,103 @@
+Nome: João Vítor
+ 
+Nome:	??? - Era: Bob - O Panco  
+Lv   Xp: 0             
+Idade: 12 anos 338
+Raça: Humano +	Classe: meio demonio ou meio anjo
+Escola: 
+ 
+  
+>Atributos 	( 25 )
+Força:		| 3 |
+Destreza:	| 4 |
+Constituição:	| 6 |
+Inteligência:	| 2 |
+Sabedoria:	| 2 |
+Carisma:	| 1 |
+Poder		| 7 |
+ 
+>Status
+
+Vida 	
+	Atual 	| 63 |		Total | 63 |
+Stamina 
+	Atual 	| 351 |		Total | 351 |
+Mana
+	Atual 	| 30 |		Total | 30 |
+
+Toxicidade  	| 0 |
+
+
+
+>Perícias
+
+sobreviver	(Físico)
+socar		(Físico)
+armas brancas	(Físico)
+resist. a dor	(Físico)
+roubar		(Físico)
+ 
+ 
+Pontos de vantagem :	0
+Pontos de Ação: 	0
+Pontos Interpretativo :	0
+Pontos Narrativos :	0  
+ 
+ 
+>Habilidades
+
+Raio de Luz: 
+	Mana - 5 / Cura (2d20 + Poder) de vida / Causa (1d20 + Poder) dano
+	Exorcismo
+Raio de Treves: 
+	Mana - 5 / Queima em (1d10) por 4 Turnos / Causa (1d20 + Poder) dano 			Banimento
+
+
+imortalidade (não morro, a não ser energia demoníaca ou celestial, armas de prata pura na cabeça ou coração) [] {quando eu morro, perco uma habilidade (depois zé me explica), renasço em algum lugar.}
+
+forma demoníaca celestial () [ativada antes de morrer/depois de morrer: perco permanentemente 1 em cada atributo, fico MUITO mais forte] {}
+
+espada luz(ntenhoainda)
+
+
+
+*Nome (Explicação) [Custo] {Descrição,(Dano ou efeito, duração)}
+ 
+>Itens:
+Saco de Moedas
+cinto de utilidades
+capa
+peitoral de couro
+calças de algodão
+botas de couro
+2 poções de 15 de vida
+2 poções de 15 de mana
+(não ganhei katana boa da casa da angel)
+
+
+Dinheiro : 15
+
+
+>Equipamentos:	Nome[Tipo de equipamento ]{Descrição}(Dano ou efeito, duração)
+adaga [Arma branca curta] (dano: 1d8+força)
+adaga [Arma branca longa] (dano: 1d10+força)
+
+
+>Características{ Qualidade & Defeitos }
+ 
+>Anotações, Extras
+
+bem afetado pelas vozes
+50 meu bloqueado
+25 voz bloqueado
+25 liberado
+
+9 selos
+1 de cada império
+
+quando todos os nove impérios se juntarem, haverá paz, haverá guerra e haverá harmonia, o poder depende da união, mas a união não depende do poder.
+
+energia de mais de mil anos?
+
+Sou um ser de energia, evoluindo posso virar um ser celeste
+

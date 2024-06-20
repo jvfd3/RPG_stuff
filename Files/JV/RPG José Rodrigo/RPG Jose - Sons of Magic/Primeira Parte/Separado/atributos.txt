@@ -1,8 +1,0 @@
->Atributos 	( 25 )
-Força:		|  3 |
-Destreza:	|  4 |
-Constituição:	|  6 |
-Inteligência:	|  2 |+1 (selo)
-Sabedoria:	|  2 |
-Carisma:	|  1 |
-Poder		|  7 |

@@ -1,0 +1,83 @@
+Nome: João Vítor
+
+Nome:	Oliver
+Lv:    Xp: 
+
+Idade: 
+Raça: Humano +	Classe: meio demonio ou meio anjo
+Nível de poder:	
+  
+>Atributos 	(  )
+
+Força:		| 15 |			
+Destreza:	|  4 |	-2 (por causa da armadura)		
+Constituição:	| 14 |			
+Inteligência:	|  6 |			
+Sabedoria:	|  4 |			
+Carisma:	|  2 |			
+Poder		|  0 |			
+
+
+
+>Status
+
+Vida 		Atual 	| 329 |		Total | 329 |
+Estamina	Atual 	| 579 |		Total | 579 |
+Mana		Atual 	|   0 |		Total |   0 |
+Toxicidade  	Atual	|   0 |	
+
+
+>Perícias
+
+Grandsword		2 (Físico)			
+Brigar 			2 (Físico)		
+Defender		2 (Físico)		
+Agarrar			2 (Físico)			
+
+Pontos de vantagem :	0
+Pontos de Ação: 	0
+Pontos Interpretativo :	0
+Pontos Narrativos :	1 
+ 
+ 
+>Habilidades
+
+	(50 Stamina)
+	Um Soco que Degasta toda sua armadura e causa ela como dano
+
+	(100 Stamina)
+	Um Ataque Bruto que usa sua Força pra acerto, causa o dano da arma.
+	(Acerto)	/r 1d20+15
+	(Dano)		/r 6d20+30
+
+	(120 Stamina)
+	Reflete todo dano recebido pela armadura 
+
+	(200 Stamina)
+	Parta seu inimigo ao meio com esse ataque, causando 3x o dano da sua arma como dano base.
+
+
+>Equipamentos:
+
+Grandsword Two Handed
+	6d20 de Dano + Força*2
+	/r 6d20+30
+
+Armadura Pesada Master 
+	(350/350) Armadura e -2 Destreza
+	
+>Passiva
+
+Proteção divina - escudo de luz
+Ganho 10% da minha vida como escudo em todo combate.
+10% de 329: ~33 armadura
+
+>Itens:
+
+2 poções de vida: 	+150 de vida
+1 poções de estamina:	+200 de estamina
+
+>Características { Qualidade & Defeitos }
+
+ 
+>Anotações, Extras
